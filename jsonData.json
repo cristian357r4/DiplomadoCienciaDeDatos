@@ -1,0 +1,81 @@
+{
+  "edoMex" : [
+    {
+      "tipo" : "3",
+      "titulo" : "nombre_estacion",
+      "nombre" : "VALLE DE BRAVO"
+    },
+    {
+      "tipo" : "3",
+      "titulo" : "nombre_estacion",
+      "nombre" : "ATLACOMULCO"
+    },
+    {
+      "tipo" : "3",
+      "titulo" : "nombre_estacion",
+      "nombre" : "Toluca"
+    },
+    {
+      "tipo" : "3",
+      "titulo" : "nombre_estacion",
+      "nombre" : "NEVADO DE TOLUCA"
+    },
+    {
+      "tipo" : "3",
+      "titulo" : "nombre_estacion",
+      "nombre" : "LAGUNAS DE ZEMPOALA"
+    },
+    {
+      "tipo" : "3",
+      "titulo" : "nombre_estacion",
+      "nombre" : "CERRO CATEDRAL"
+    },
+    {
+      "tipo" : "3",
+      "titulo" : "nombre_estacion",
+      "nombre" : "PRESA MADIN"
+    },
+    {
+      "tipo" : "3",
+      "titulo" : "nombre_estacion",
+      "nombre" : "IXTAPALUCA"
+    },
+    {
+      "tipo" : "3",
+      "titulo" : "nombre_estacion",
+      "nombre" : "MANUEL AVILA CAMACHO"
+    },
+    {
+      "tipo" : "3",
+      "titulo" : "nombre_estacion",
+      "nombre" : "ALTZOMONI"
+    },
+    {
+      "tipo" : "3",
+      "titulo" : "nombre_estacion",
+      "nombre" : "PARQUE IXTA POPO"
+    }
+  ],
+  "cdmx":[
+    {
+      "tipo" : "3",
+      "titulo" : "nombre_estacion",
+      "nombre" : "ECOGUARDAS"
+    },
+    {
+      "tipo" : "3",
+      "titulo" : "nombre_estacion",
+      "nombre" : "MOLINO DEL REY"
+    },
+    {
+      "tipo" : "3",
+      "titulo" : "nombre_estacion",
+      "nombre" : "ESCUELA NACIONALDE CIENCIAS BIOLOGICAS II"
+    },
+    {
+      "tipo" : "3",
+      "titulo" : "nombre_estacion",
+      "nombre" : "TEZONTLE"
+    }
+  ]
+}
